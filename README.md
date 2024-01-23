@@ -1,1 +1,3 @@
 # teste-vscode
+
+# verificar arquivos
