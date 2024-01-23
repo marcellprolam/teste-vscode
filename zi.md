@@ -22,3 +22,7 @@ origin  https://github.com/marcellprolam/teste-vscode.git (push)
 
 pode adiciona na aba do git, no sinal de mais. (u)
 -> Stage Changes
+
+mudara (A)
+
+mensagem para comitar
